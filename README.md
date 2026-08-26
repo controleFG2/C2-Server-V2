@@ -15,7 +15,7 @@ Para manter o foco estrito no estudo de protocolos e formato binário de redes, 
 
 ---
 
-## 🛠️ Estrutura do Projeto
+##Estrutura do Projeto
 
 ```text
 meu_c2/
