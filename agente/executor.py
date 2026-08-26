@@ -12,6 +12,8 @@ class commandExecutor:
 
         return saida + erro
 
+    #BLOCO EXECUTOR: executa os comandos no agente e retorna o output
+
 if __name__ == '__main__':
     comando = 'whoami'
     executor = commandExecutor()
